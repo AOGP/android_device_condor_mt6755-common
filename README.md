@@ -41,4 +41,9 @@ Front Camera | 16MP (Samsung  s5k3smipiraw), LED Flash, Autofocus, Self-timer, I
  * Flounderist
  * Moyster
  * AOUP team
+ 
+ ---
+ 
+ ### How to build:
+Infos [here](https://github.com/AOGP/local_manifests/tree/LineageOs-14.1)
 
